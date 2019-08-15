@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">newsreader</string>
+    <string name="treetext">In botany, a tree is a perennial plant with an elongated stem, or trunk, supporting branches
+        and leaves in most species. In some usages, the definition of a tree may be narrower, including only woody
+        plants with secondary growth, plants that are usable as lumber or plants above a specified height. In wider
+        definitions, the taller palms, tree ferns, bananas, and bamboos are also trees. Trees are not a taxonomic group
+        but include a variety of plant species that have independently evolved a trunk and branches as a way to tower
+        above other plants to compete for sunlight. Trees tend to be long-lived, some reaching several thousand years
+        old. Trees have been in existence for 370 million years. It is estimated that there are just over 3 trillion
+        mature trees in the world.[1] A tree typically has many secondary branches supported clear of the ground by the
+        trunk. This trunk typically contains woody tissue for strength, and vascular tissue to carry materials from one
+        part of the tree to another. For most trees it is surrounded by a layer of bark which serves as a protective
+        barrier. Below the ground, the roots branch and spread out widely; they serve to anchor the tree and extract
+        moisture and nutrients from the soil. Above ground, the branches divide into smaller branches and shoots. The
+        shoots typically bear leaves, which capture light energy and convert it into sugars by photosynthesis, providing
+        the food for the tree\'s growth and development. Trees usually reproduce using seeds. Flowers and fruit may be
+        present, but some trees, such as conifers, instead have pollen cones and seed cones. Palms, bananas, and bamboos
+        also produce seeds, but tree ferns produce spores instead. Trees play a significant role in reducing erosion and
+        moderating the climate. They remove carbon dioxide from the atmosphere and store large quantities of carbon in
+        their tissues. Trees and forests provide a habitat for many species of animals and plants. Tropical rainforests
+        are among the most biodiverse habitats in the world. Trees provide shade and shelter, timber for construction,
+        fuel for cooking and heating, and fruit for food as well as having many other uses. In parts of the world,
+        forests are shrinking as trees are cleared to increase the amount of land available for agriculture. Because of
+        their longevity and usefulness, trees have always been revered, with sacred groves in various cultures, and they
+        play a role in many of the world\'s mythologies.
+    </string>
+    <string name="treetitle">All About Trees</string>
+    <string name="flowertitle">All About Flowers</string>
+    <string name="beetitle">All About Bees</string>
+    <string name="cloudtitle">All About Clouds</string>
+    <string name="clifftitle">All About Cliffs</string>
+    <string name="cloudtext">In meteorology, a cloud is an aerosol consisting of a visible mass of minute liquid
+        droplets, frozen crystals, or other particles suspended in the atmosphere of a planetary body or similar
+        space.[1] Water or various other chemicals may compose the droplets and crystals. On Earth, clouds are formed as
+        a result of saturation of the air when it is cooled to its dew point, or when it gains sufficient moisture
+        (usually in the form of water vapor) from an adjacent source to raise the dew point to the ambient temperature.
+        They are seen in the Earth\'s homosphere (which includes the troposphere, stratosphere, and mesosphere).
+        Nephology is the science of clouds, which is undertaken in the cloud physics branch of meteorology. The two
+        methods of naming clouds in their respective layers of the atmosphere are Latin and common. Cloud types in the
+        troposphere, the atmospheric layer closest to Earth\'s surface, have Latin names due to the universal adaptation
+        of Luke Howard\'s nomenclature. Formally proposed in 1802, it became the basis of a modern international system
+        that divides clouds into five physical forms that appear in any or all of three altitude levels (formerly known
+        as étages). These physical types, in approximate ascending order of convective activity, include stratiform
+        sheets, cirriform wisps and patches, stratocumuliform layers (mainly structured as rolls, ripples, and patches),
+        cumuliform heaps, and very large cumulonimbiform heaps that often show complex structures. The physical forms
+        are divided by altitude level into 10 basic genus-types. Clouds reflecting in a puddle, Sutton-on-Trent, England
+        The Latin names for applicable high-level genera in the troposphere carry a cirro- prefix, and an alto- prefix
+        is added to the names of the mid-level genus-types. Clouds with sufficient vertical extent to occupy more than
+        one altitude level are officially classified as low- or mid-level according to the altitude range at which each
+        initially forms. However they are also more informally classified as multi-level or vertical, which along with
+        low level clouds, do not carry any altitude related prefixes. Most of the genera can be subdivided into species
+        and further subdivided into varieties. Very low stratiform clouds that extend down to the Earth\'s surface are
+        given the common names fog and mist, but have no Latin names. Several clouds that form higher up in the
+        stratosphere and mesosphere have common names for their main types. They are seen infrequently, mostly in the
+        polar regions of Earth. Clouds have been observed in the atmospheres of other planets and moons in the Solar
+        System and beyond. However, due to their different temperature characteristics, they are often composed of other
+        substances such as methane, ammonia, and sulfuric acid, as well as water. The table that follows is very broad
+        in scope and draws from several methods of cloud classification, both formal and informal, used in different
+        levels of the Earth\'s homosphere by a number of cited authorities. They are cross-classified as a whole by form
+        and level to derive the 10 tropospheric genera, the fog and mist that forms at surface level, and several
+        additional major types above the troposphere. The cumulus genus includes four species that indicate vertical
+        size and structure. The table should therefore be seen as an illustration of how the various cloud types are
+        related to each other at all altitudes from surface-level to the \'edge of space\', rather than as a strict
+        classification per se.
+    </string>
+    <string name="beetext">Bees are flying insects closely related to wasps and ants, known for their role in
+        pollination and, in the case of the best-known bee species, the western honey bee, for producing honey and
+        beeswax. Bees are a monophyletic lineage within the superfamily Apoidea and are presently considered a clade,
+        called Anthophila. There are over 16,000 known species of bees in seven recognized biological families.[1][2]
+        They are found on every continent except Antarctica, in every habitat on the planet that contains
+        insect-pollinated flowering plants. Some species including honey bees, bumblebees, and stingless bees live
+        socially in colonies. Bees are adapted for feeding on nectar and pollen, the former primarily as an energy
+        source and the latter primarily for protein and other nutrients. Most pollen is used as food for larvae. Bee
+        pollination is important both ecologically and commercially. The decline in wild bees has increased the value of
+        pollination by commercially managed hives of honey bees. Bees range in size from tiny stingless bee species
+        whose workers are less than 2 millimetres (0.08 in) long, to Megachile pluto, the largest species of leafcutter
+        bee, whose females can attain a length of 39 millimetres (1.54 in). The most common bees in the Northern
+        Hemisphere are the Halictidae, or sweat bees, but they are small and often mistaken for wasps or flies.
+        Vertebrate predators of bees include birds such as bee-eaters; insect predators include beewolves and
+        dragonflies. Human beekeeping or apiculture has been practised for millennia, since at least the times of
+        Ancient Egypt and Ancient Greece. Apart from honey and pollination, honey bees produce beeswax, royal jelly and
+        propolis. Bees have appeared in mythology and folklore, through all phases of art and literature, from ancient
+        times to the present day, though primarily focused in the Northern Hemisphere, where beekeeping is far more
+        common. The analysis of 353 wild bee and hoverfly species across Britain from 1980 to 2013 found the insects
+        have been lost from a quarter of the places they inhabited in 1980.[3]
+    </string>
+    <string name="flowertext">A flower, sometimes known as a bloom or blossom, is the reproductive structure found in
+        flowering plants (plants of the division Magnoliophyta, also called angiosperms). The biological function of a
+        flower is to effect reproduction, usually by providing a mechanism for the union of sperm with eggs. Flowers may
+        facilitate outcrossing (fusion of sperm and eggs from different individuals in a population) or allow selfing
+        (fusion of sperm and egg from the same flower). Some flowers produce diaspores without fertilization
+        (parthenocarpy). Flowers contain sporangia and are the site where gametophytes develop. Many flowers have
+        evolved to be attractive to animals, so as to cause them to be vectors for the transfer of pollen. After
+        fertilization, the ovary of the flower develops into fruit containing seeds. In addition to facilitating the
+        reproduction of flowering plants, flowers have long been admired and used by humans to bring beauty to their
+        environment, and also as objects of romance, ritual, religion, medicine and as a source of food.
+    </string>
+    <string name="clifftext">In geography and geology, a cliff is a vertical, or nearly vertical, rock exposure. Cliffs
+        are formed as erosion landforms by the processes of weathering and erosion. Cliffs are common on coasts, in
+        mountainous areas, escarpments and along rivers. Cliffs are usually formed by rock that is resistant to
+        weathering and erosion. Sedimentary rocks most likely to form cliffs include sandstone, limestone, chalk, and
+        dolomite. Igneous rocks such as granite and basalt also often form cliffs. An escarpment (or scarp) is a type of
+        cliff, formed by the movement of a geologic fault or landslide, or by differential erosion of rock layers of
+        differing hardness. Most cliffs have some form of scree slope at their base. In arid areas or under high cliffs,
+        they are generally exposed jumbles of fallen rock. In areas of higher moisture, a soil slope may obscure the
+        talus. Many cliffs also feature tributary waterfalls or rock shelters. Sometimes a cliff peters out at the end
+        of a ridge, with tea tables or other types of rock columns remaining. Coastal erosion may lead to the formation
+        of sea cliffs along a receding coastline. The Ordnance Survey distinguishes between cliffs (continuous line
+        along the top edge with projections down the face) and outcrops (continuous lines along lower edge).
+    </string>
+</resources>
