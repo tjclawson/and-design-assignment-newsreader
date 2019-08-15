@@ -19,33 +19,48 @@ class List : AppCompatActivity() {
         iv4.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.cloud))
         iv5.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.cliff))
 
-
+        //All these listeners and intents could likely be condensed into one, not sure how to do so
         iv1.setOnClickListener {
             val intent = Intent(this, Details::class.java)
+            intent.putExtra("imageID", R.drawable.tree)
+            intent.putExtra("titleID", R.string.treetitle)
+            intent.putExtra("textID", R.string.treetext)
             startActivity(intent)
 
         }
 
         iv2.setOnClickListener {
             val intent = Intent(this, Details::class.java)
+            intent.putExtra("imageID", R.drawable.flower)
+            intent.putExtra("titleID", R.string.flowertitle)
+            intent.putExtra("textID", R.string.flowertext)
             startActivity(intent)
 
         }
 
         iv3.setOnClickListener {
             val intent = Intent(this, Details::class.java)
+            intent.putExtra("imageID", R.drawable.bee)
+            intent.putExtra("titleID", R.string.beetitle)
+            intent.putExtra("textID", R.string.beetext)
             startActivity(intent)
 
         }
 
         iv4.setOnClickListener {
             val intent = Intent(this, Details::class.java)
+            intent.putExtra("imageID", R.drawable.cloud)
+            intent.putExtra("titleID", R.string.cloudtitle)
+            intent.putExtra("textID", R.string.cloudtext)
             startActivity(intent)
 
         }
 
         iv5.setOnClickListener {
             val intent = Intent(this, Details::class.java)
+            intent.putExtra("imageID", R.drawable.cliff)
+            intent.putExtra("titleID", R.string.clifftitle)
+            intent.putExtra("textID", R.string.clifftext)
             startActivity(intent)
 
         }
